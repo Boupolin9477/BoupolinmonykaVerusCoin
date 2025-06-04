@@ -1,0 +1,5 @@
+# Command 1 (corrected)
+cmake -B D:\A\Boupol\Immny\extremCdn\Build -DOWSE_EX_CORPILEN=C1 -DOWSE_C_CORPILEN=C2 -DOWSE_BUILD_TYPE=Release -S D:\A\Boupol\Immny\extremCdn
+
+# Command 2 (corrected)
+cmake -B D:\A\Boupol\Immny\extremCdn\Build -DOWSE_EX_CORPILEN=C1 -DOWSE_C_CORPILEN=C3 -DOWSE_BUILD_TYPE=Release -S D:\A\Boupol\Immny\extremCdn
